@@ -4,13 +4,13 @@
 [![macOS](https://img.shields.io/badge/macOS-13.6.4-blue)](https://www.apple.com/macos/big-sur-preview/)
 ![OpenCore](https://img.shields.io/badge/OpenCore-0.9.1-9cf)
 
-| **Surface Laptop 3 15"** | **macOS Ventura** | **macOS Sonoma** |
+| **Surface Laptop 3 15"** | **macOS Ventura** | **macOS Sequoia** |
 | ------------- | ------------- | --- |
 | ![](figs/laptop.jpeg) |![](figs/screenshot.png) | ![](figs/sonoma.png) |
 
 ## Features
 
-* Running macOS Ventura/Sonoma without major issues. 
+* Running macOS Ventura/Sonoma/Sequoia without major issues. 
 * Support Bluetooth 4.0+ devices with the solution provided by [this issue](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/issues/51). 
 
 ## Hardware

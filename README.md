@@ -1,4 +1,4 @@
-# Surface Laptop 3 13/15" OpenCore EFI for macOS Ventura/Sonoma
+# Surface Laptop 3 13/15" OpenCore EFI for macOS Ventura/Sonoma/Sequoia
 
 <!-- add github tags here -->
 [![macOS](https://img.shields.io/badge/macOS-13.6.4-blue)](https://www.apple.com/macos/big-sur-preview/)

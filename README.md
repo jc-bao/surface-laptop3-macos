@@ -1,16 +1,16 @@
-# Surface Laptop 3 15" OpenCore EFI for macOS Ventura
+# Surface Laptop 3 13/15" OpenCore EFI for macOS Ventura/Sonoma
 
 <!-- add github tags here -->
 [![macOS](https://img.shields.io/badge/macOS-13.6.4-blue)](https://www.apple.com/macos/big-sur-preview/)
 ![OpenCore](https://img.shields.io/badge/OpenCore-0.9.1-9cf)
 
-| **Surface Laptop 3 15"** | **macOS Ventura** |
-| ------------- | ------------- |
-| ![](figs/laptop.jpeg) |![](figs/screenshot.png) |
+| **Surface Laptop 3 15"** | **macOS Ventura** | **macOS Sonoma** |
+| ------------- | ------------- | --- |
+| ![](figs/laptop.jpeg) |![](figs/screenshot.png) | ![](figs/sonoma.png) |
 
 ## Features
 
-* Running macOS Ventura 13.6.4 without major issues. 
+* Running macOS Ventura/Sonoma without major issues. 
 * Support Bluetooth 4.0+ devices with the solution provided by [this issue](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/issues/51). 
 
 ## Hardware
@@ -19,7 +19,6 @@
 * **iGPU**: Intel Iris Plus Graphics G7
 * **Memory**: 16 GB 3733 MHz LPDDR4X
 * **Storage**: 256 GB NVMe SSD HFM256GDGTNG-87A0A
-* **Display**: 15" 2496x1664
 
 ## Current status
 

@@ -43,7 +43,11 @@
 
 Please follow the [OpenCore guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) to create a bootable USB. Then replace the `EFI` folder with mine.
 
-> Note: it is normal to have screen flickering during installation. 
+> [!IMPORTANT]  
+> Please downgrade the surface firmware to 6.2 to get smooth trackpad experience. More details [here](https://github.com/Xiashangning/BigSurface/issues/79). You can follow [this](https://github.com/Xiashangning/BigSurface/issues/79#issuecomment-2208484390) to downgrade it. 
+
+> [!Note]
+> It is normal to have screen flickering during installation. 
 
 ## Post installation
 

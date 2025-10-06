@@ -4,9 +4,9 @@
 [![macOS](https://img.shields.io/badge/macOS-13.6.4-blue)](https://www.apple.com/macos/big-sur-preview/)
 ![OpenCore](https://img.shields.io/badge/OpenCore-0.9.1-9cf)
 
-| **Surface Laptop 3 15"** | **macOS Ventura** | **macOS Sequoia** |
-| ------------- | ------------- | --- |
-| ![](figs/laptop.jpeg) |![](figs/screenshot.png) | ![](figs/sonoma.png) |
+| **Surface Laptop 3 15"** | **macOS Ventura** | **macOS Sequoia** | **macOS Tahoe** |
+| ------------- | ------------- | --- | --- |
+| ![](figs/laptop.jpeg) |![](figs/screenshot.png) | ![](figs/sonoma.png) | ![](figs/tahoe.png) | ![](figs/sonoma.png) |
 
 ## Features
 
